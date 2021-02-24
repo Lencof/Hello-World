@@ -6,4 +6,8 @@ def Day(): # create def Day():
     print('Day') # your text
     print('Day') # your text
     
+    print("Day") # your text
+    print("Day") # your text
+    print("Day") # your text
+    
 Day() # close
