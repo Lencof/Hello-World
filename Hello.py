@@ -18,3 +18,7 @@ print("Hello worlds") # your text
 print('Hello Worlds') # your text
 print('Hello Worlds') # your text
 print('Hello Wrolds') # your text
+
+print("Close") # your text
+print("Close") # your text
+print("Close") # your text
