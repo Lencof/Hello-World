@@ -26,3 +26,7 @@ print("Hello Worlds") # your text
 print("Close") # your text
 print("Close") # your text
 print("Close") # your text
+
+print('Close') # your text
+print('Close') # your text
+print('Close') # your text
