@@ -1,4 +1,14 @@
 # __Author__ __Lencof__
 # Bugax.py
 
-prin
+print('Bugax') # your text
+print('Bugax') # your text
+print('Bugax') # your text
+
+print('Bugax') # your text
+print('Bugax') # your text
+print('Bugax') # your text
+
+print('Bugax') # your text
+print('Bugax') # your text
+print('Bugax') # your text
