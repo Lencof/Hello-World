@@ -11,5 +11,12 @@ class Bax(): # create class Bax()
     print('Bax') # your text
     print('Bax') # your text
     
+class Nasix(): # create class Nasix()
+    print('Nasix') # your text
+    print('Nasix') # your text
+    print('Nasix') # your text
+    
+    
 Bav() # close
 Bax() # close
+Nasix() # close
