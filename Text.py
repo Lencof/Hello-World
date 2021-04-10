@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # Text.py
 
+import os
+
 # create dictionary Text
 Text = {
   'Hi',   # your text
