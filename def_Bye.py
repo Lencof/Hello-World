@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # def_Bye.py
 
+import os 
+
 def Dior(): # create def Dior()
     print('Bye!') # your text
     print('Bye!') # your text
