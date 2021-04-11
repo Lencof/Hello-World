@@ -2,6 +2,7 @@
 # As.py
 
 import os
+import sys
 
 print("As") # your text
 print("As") # your text
