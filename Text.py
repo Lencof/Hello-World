@@ -2,6 +2,7 @@
 # Text.py
 
 import os
+import sys
 
 # create dictionary Text
 Text = {
