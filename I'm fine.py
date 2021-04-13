@@ -2,6 +2,7 @@
 # I'm fine.py
 
 import os
+import sys
 
 # I put double commas so that the text does not stand out
 print("I'm fine") # your text
