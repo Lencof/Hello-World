@@ -2,6 +2,7 @@
 # def_Bye.py
 
 import os 
+import sys
 
 def Dior(): # create def Dior()
     print('Bye!') # your text
