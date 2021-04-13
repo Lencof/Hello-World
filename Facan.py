@@ -2,6 +2,7 @@
 # Facan.py
 
 import os
+import sys
 
 print('Facan') # your text
 print('Facan') # your text
