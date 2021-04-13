@@ -2,7 +2,8 @@
 # Caspa.py
  
 import os 
-  
+import sys
+
 print('Caspa') # your text
 print('Caspa') # your text
 print('Caspa') # your text
