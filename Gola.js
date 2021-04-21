@@ -2,3 +2,37 @@
 // Gola.js
 
 console.log('Gola') // your text
+console.log('Gola') // your text
+console.log('Gola') // your text
+
+console.log('Gola') // your text
+console.log('Gola') // your text
+console.log('Gola') // your text
+
+console.log('Gola') // your text
+console.log('Gola') // your text
+console.log('Gola') // your text
+
+console.log('Gola') // your text
+console.log('Gola') // your text
+console.log('Gola') // your text
+
+console.log('Gola') // your text
+console.log('Gola') // your text
+console.log('Gola') // your text
+
+console.log('Gola') // your text
+console.log('Gola') // your text
+console.log('Gola') // your text
+
+console.log('Gola') // your text
+console.log('Gola') // your text
+console.log('Gola') // your text
+
+console.log('Gola') // your text
+console.log('Gola') // your text
+console.log('Gola') // your text
+
+console.log('Gola') // your text
+console.log('Gola') // your text
+console.log('Gola') // your text
