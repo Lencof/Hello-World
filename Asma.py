@@ -3,6 +3,7 @@
 
 import os
 import sys 
+import os.path
 
 print('Asma') # your text
 print('Asma') # your text
