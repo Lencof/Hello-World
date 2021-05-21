@@ -3,6 +3,7 @@
 
 import os
 import sys
+import os.path
 
 # I put double commas so that the text does not stand out
 print("I'm fine") # your text
