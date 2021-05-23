@@ -3,6 +3,7 @@
 
 import os 
 import sys 
+import os.path
 
 def DEC(): # create def DEC():
     print('Hi! DEC') # your text 
