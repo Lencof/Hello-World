@@ -3,6 +3,7 @@
 
 import os 
 import sys
+import os.path
 
 def Dior(): # create def Dior()
     print('Bye!') # your text
