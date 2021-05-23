@@ -3,6 +3,7 @@
 
 import os
 import sys 
+import os.path
 
 def Day(): # create def Day():
     print('Day') # your text
