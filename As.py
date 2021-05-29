@@ -2,8 +2,6 @@
 # As.py
 
 import os
-import sys
-import os.path
 
 print("As") # your text
 print("As") # your text
