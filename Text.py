@@ -2,8 +2,6 @@
 # Text.py
 
 import os
-import sys
-import os.path
 
 # create dictionary Text
 Text = {
