@@ -2,8 +2,6 @@
 # def_Falcon.py
 
 import os 
-import sys
-import os.path
 
 # create def Falcon():
 def Falcon():
