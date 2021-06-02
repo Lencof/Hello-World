@@ -2,8 +2,6 @@
 # def_Hello.py
 
 import os
-import sys 
-import os.path
 
 def Hello(): # create Hello
     print('Hello Worlds') # your text
