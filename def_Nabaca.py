@@ -2,8 +2,6 @@
 # def_Nabaca.py
 
 import os 
-import sys
-import os.path
 
 # create def Nabaca():
 def Nabaca():
