@@ -2,8 +2,6 @@
 # Hello.py
 # using print to display text
 
-import os
-
 print('Hello Worlds') # your text
 print('Hello Worlds') # your text
 print('Hello Worlds') # your text
