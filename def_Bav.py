@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # def_Bav.py
 
-import os 
-
 class Bav(): # create class Bav()
     print('Bav') # your text
     print('Bav') # your text
