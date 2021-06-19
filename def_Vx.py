@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # def_Vx.py
 
-import os
-
 def Vx(): # creste def Vx():
     print('Help me!') # your text
     print('Help me!') # your text
