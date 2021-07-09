@@ -22,12 +22,12 @@ print('ACO')
 print('ACO') 
 
 print('ACO') 
-print('ACO') # your text
-print('ACO') # your text
+print('ACO') 
+print('ACO') 
 
-print('ACO') # your text
-print('ACO') # your text
-print('ACO') # your text
+print('ACO')
+print('ACO') 
+print('ACO') 
 
 print('ACO') # your text
 print('ACO') # your text
