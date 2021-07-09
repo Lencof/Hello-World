@@ -21,18 +21,18 @@ console.log('Acar')
 console.log('Acar') 
 console.log('Acar') 
 
-console.log('Acar') // your text
-console.log('Acar') // your text
-console.log('Acar') // your text
+console.log('Acar') 
+console.log('Acar') 
+console.log('Acar') 
 
-console.log('Acar') // your text
-console.log('Acar') // your text
-console.log('Acar') // your text
+console.log('Acar') 
+console.log('Acar') 
+console.log('Acar') 
 
-console.log('Acar') // your text
-console.log('Acar') // your text
-console.log('Acar') // your text
+console.log('Acar') 
+console.log('Acar') 
+console.log('Acar') 
 
-console.log('Acar') // your text
-console.log('Acar') // your text
-console.log('Acar') // your text
+console.log('Acar') 
+console.log('Acar') 
+console.log('Acar') 
