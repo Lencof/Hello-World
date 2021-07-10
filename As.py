@@ -6,12 +6,12 @@ print("As")
 print("As") 
 
 print('As') 
-print('As') # your text
-print('As') # your text
+print('As') 
+print('As')
 
-print('As') # your text
-print('As') # your text
-print('As') # your text
+print('As') 
+print('As') 
+print('As') 
 
 print("As") # your text
 print("As") # your text
