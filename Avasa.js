@@ -21,9 +21,9 @@ console.log('Avasa')
 console.log('Avasa') 
 console.log('Avasa') 
 
-console.log('Avasa') // your text
-console.log('Avasa') // your text
-console.log('Avasa') // your text
+console.log('Avasa') 
+console.log('Avasa') 
+console.log('Avasa') 
 
 console.log('Avasa') // your text
 console.log('Avasa') // your text
