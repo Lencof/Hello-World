@@ -29,9 +29,9 @@ print('Ave')
 print('Ave') 
 print('Ave') 
 
-print('Ave') # your text
-print('Ave') # your text
-print('Ave') # your text
+print('Ave')
+print('Ave')
+print('Ave')
  
 print('Ave') # your text
 print('Ave') # your text
