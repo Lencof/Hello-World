@@ -13,8 +13,8 @@ print('BAX')
 print('BAX') 
 print('BAX') 
 
-print('BAX') # your text
-print('BAX') # your text
+print('BAX') 
+print('BAX') 
 print('BAX') # your text
 
 print('BAX') # your text
