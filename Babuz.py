@@ -21,13 +21,13 @@ print('Babuz')
 print('Babuz') 
 print('Babuz') 
 
-print('Babuz') # your text
-print('Babuz') # your text
-print('Babuz') # your text
+print('Babuz') 
+print('Babuz') 
+print('Babuz') 
 
-print('Babuz') # your text
-print('Babuz') # your text
-print('Babuz') # your text
+print('Babuz') 
+print('Babuz') 
+print('Babuz')
 
 print('Babuz') # your text
 print('Babuz') # your text
