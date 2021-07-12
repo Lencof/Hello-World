@@ -29,10 +29,10 @@ print('Bax')
 print('Bax') 
 print('Bax') 
 
-print('Bax') # your text
-print('Bax') # your text
-print('Bax') # your text
+print('Bax') 
+print('Bax') 
+print('Bax') 
 
-print('Bax') # your text
-print('Bax') # your text
-print('Bax') # your text
+print('Bax') 
+print('Bax') 
+print('Bax') 
