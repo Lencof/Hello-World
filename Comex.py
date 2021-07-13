@@ -13,9 +13,9 @@ print('Comex')
 print('Comex') 
 print('Comex') 
 
-print('Comex') # your text
-print('Comex') # your text
-print('Comex') # your text
+print('Comex') 
+print('Comex') 
+print('Comex') 
 
 print('Comex') # your text
 print('Comex') # your text
