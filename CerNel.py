@@ -17,13 +17,13 @@ print('CerNel')
 print('CerNel') 
 print('CerNel') 
 
-print('CerNel') # your text
-print('CerNel') # your text
-print('CerNel') # your text
+print('CerNel') 
+print('CerNel') 
+print('CerNel') 
 
-print('CerNel') # your text
-print('CerNel') # your text
-print('CerNel') # your text
+print('CerNel') 
+print('CerNel') 
+print('CerNel')
 
 print('CerNel') # your text
 print('CerNel') # your text
