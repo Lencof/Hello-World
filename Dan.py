@@ -17,9 +17,9 @@ print('Dan')
 print('Dan') 
 print('Dan') 
 
-print('Dan') # your text
-print('Dan') # your text
-print('Dan') # your text
+print('Dan') 
+print('Dan') 
+print('Dan') 
 
 print('Dan') # your text
 print('Dan') # your text
