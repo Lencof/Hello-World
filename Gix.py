@@ -17,9 +17,9 @@ print('Gix')
 print('Gix')
 print('Gix')
 
-print('Gix') # your text
-print('Gix') # your text
-print('Gix') # your text
+print('Gix') 
+print('Gix') 
+print('Gix') 
 
 print('Gix') # your text
 print('Gix') # your text
