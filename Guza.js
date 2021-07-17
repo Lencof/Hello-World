@@ -6,8 +6,8 @@ console.log('Guza')
 console.log('Guza') 
 
 console.log('Guza') 
-console.log('Guza') // your text
-console.log('Guza') // your text
+console.log('Guza') 
+console.log('Guza') 
 
 console.log('Guza') // your text
 console.log('Guza') // your text
