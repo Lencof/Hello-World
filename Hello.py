@@ -22,9 +22,9 @@ print('Hello Worlds')
 print('Hello Worlds') 
 print('Hello Wrolds') 
 
-print("Hello Worlds") # your text
-print("Hello Worlds") # your text
-print("Hello Worlds") # your text
+print("Hello Worlds") 
+print("Hello Worlds")
+print("Hello Worlds") 
 
 print("Close") # your text
 print("Close") # your text
