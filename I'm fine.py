@@ -21,6 +21,6 @@ print("I'm fine")
 print("I'm fine") 
 print("I'm fine") 
 
-print('Close') # your text
-print('Close') # your text
-print('Close') # your text
+print('Close')
+print('Close') 
+print('Close') 
