@@ -21,9 +21,9 @@ console.log('Mingo')
 console.log('Mingo') 
 console.log('Mingo') 
 
-console.log('Mingo') // your text
-console.log('Mingo') // your text
-console.log('Mingo') // your text
+console.log('Mingo') 
+console.log('Mingo') 
+console.log('Mingo') 
 
 console.log('Mingo') // your text
 console.log('Mingo') // your text
