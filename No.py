@@ -5,9 +5,9 @@ print('No')
 print('No') 
 print('No')
 
-print('No') # your text
-print('No') # your text
-print('No') # your text
+print('No') 
+print('No') 
+print('No') 
 
 print('No') # your text
 print('No') # your text
