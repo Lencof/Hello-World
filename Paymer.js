@@ -33,6 +33,6 @@ console.log('Paymer')
 console.log('Paymer') 
 console.log('Paymer') 
 
-console.log('Paymer') // your text
-console.log('Paymer') // your text
-console.log('Paymer') // your text
+console.log('Paymer') 
+console.log('Paymer') 
+console.log('Paymer') 
