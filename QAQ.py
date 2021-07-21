@@ -33,6 +33,6 @@ print('QAQ')
 print('QAQ') 
 print('QAQ') 
 
-print('QAQ') # your text
-print('QAQ') # your text
-print('QAQ') # your text
+print('QAQ') 
+print('QAQ') 
+print('QAQ') 
