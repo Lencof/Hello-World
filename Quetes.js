@@ -13,9 +13,9 @@ console.log('Quetes')
 console.log('Quetes') 
 console.log('Quetes') 
 
-console.log('Quetes') // your text
-console.log('Quetes') // your text
-console.log('Quetes') // your text
+console.log('Quetes') 
+console.log('Quetes') 
+console.log('Quetes') 
 
 console.log('Quetes') // your text
 console.log('Quetes') // your text
