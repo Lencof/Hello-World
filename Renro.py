@@ -29,9 +29,9 @@ print('Renro')
 print('Renro') 
 print('Renro') 
 
-print('Renro') # your text
-print('Renro') # your text
-print('Renro') # your text
+print('Renro') 
+print('Renro') 
+print('Renro') 
 
 print('Renro') # your text
 print('Renro') # your text
