@@ -17,9 +17,9 @@ console.log('Rose')
 console.log('Rose') 
 console.log('Rose') 
 
-console.log('Rose') // your text
-console.log('Rose') // your text
-console.log('Rose') // your text
+console.log('Rose') 
+console.log('Rose') 
+console.log('Rose') 
 
 console.log('Rose') // your text
 console.log('Rose') // your text
