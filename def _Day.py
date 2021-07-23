@@ -10,8 +10,8 @@ def Day():
     print("Day") 
     print("Day") 
     
-    print('Day') # your text
-    print('Day') # your text
-    print('Day') # your text
+    print('Day') 
+    print('Day') 
+    print('Day') 
     
 Day() # close
