@@ -1,16 +1,16 @@
 # __Author__ __Lencof__
 # def_Bye.py
 
-def Dior(): # create def Dior()
-    print('Bye!') # your text
-    print('Bye!') # your text
-    print('Bye!') # your text
+def Dior():
+    print('Bye!') 
+    print('Bye!') 
+    print('Bye!') 
     
-def Jo(): # create def Jo()
-    print('No bye!') # your text
-    print('No bye!') # your text
-    print('No bye!') # your text
+def Jo(): 
+    print('No bye!') 
+    print('No bye!') 
+    print('No bye!') 
     
-Dior() # close
-Jo() # close
+Dior() 
+Jo() 
 # if we do not close with parentheses it will not work for us, Dior() and Jo()
