@@ -1,38 +1,38 @@
 # __Author__ __Lencof__
 # see.py
 
-print('see') # your text
-print('see') # your text
-print('see') # your text
+print('see') 
+print('see') 
+print('see') 
 
-print('see') # your text
-print('see') # your text
-print('see') # your text
+print('see') 
+print('see') 
+print('see')
 
-print('see') # your text
-print('see') # your text
-print('see') # your text
+print('see') 
+print('see')
+print('see')
 
-print('see') # your text
-print('see') # your text
-print('see') # your text
+print('see')
+print('see')
+print('see') 
 
-print('see') # your text
-print('see') # your text
-print('see') # your text
+print('see') 
+print('see') 
+print('see') 
 
-print('see') # your text
-print('see') # your text
-print('see') # your text
+print('see') 
+print('see') 
+print('see') 
 
-print('see') # your text
-print('see') # your text
-print('see') # your text
+print('see') 
+print('see') 
+print('see') 
 
-print('see') # your text
-print('see') # your text
-print('see') # your text
+print('see') 
+print('see') 
+print('see') 
 
-print('see') # your text
-print('see') # your text
-print('see') # your text
+print('see') 
+print('see') 
+print('see') 
