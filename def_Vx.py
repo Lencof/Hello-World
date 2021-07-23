@@ -1,15 +1,15 @@
 # __Author__ __Lencof__
 # def_Vx.py
 
-def Vx(): # creste def Vx():
-    print('Help me!') # your text
-    print('Help me!') # your text
-    print('Help me!') # your text
+def Vx(): 
+    print('Help me!') 
+    print('Help me!') 
+    print('Help me!') 
     
-def Vs(): # create def Vs():
-    print('No thank') # your text
-    print('No thank') # your text
-    print('No thank') # your text
+def Vs(): 
+    print('No thank') 
+    print('No thank') 
+    print('No thank') 
     
-Vx() # close
-Vs() # close
+Vx() 
+Vs() 
