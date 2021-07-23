@@ -1,10 +1,10 @@
 # __Author__ __Lencof__
 # def _Day.py
 
-def Day(): # create def Day():
-    print('Day') # your text
-    print('Day') # your text
-    print('Day') # your text
+def Day(): 
+    print('Day') 
+    print('Day') 
+    print('Day') 
     
     print("Day") # your text
     print("Day") # your text
