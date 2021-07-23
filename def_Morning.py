@@ -18,24 +18,24 @@ def Morning():
     print('Morning') 
     print('Morning') 
     
-    print('Morning') # your text
-    print('Morning') # your text
-    print('Morning') # your text
+    print('Morning') 
+    print('Morning') 
+    print('Morning') 
     
-    print('Morning') # your text
-    print('Morning') # your text
-    print('Morning') # your text
+    print('Morning') 
+    print('Morning') 
+    print('Morning') 
     
-    print('Morning') # your text
-    print('Morning') # your text
-    print('Morning') # your text
+    print('Morning') 
+    print('Morning') 
+    print('Morning') 
     
-    print('Morning') # your text
-    print('Morning') # your text
-    print('Morning') # your text
+    print('Morning')
+    print('Morning') 
+    print('Morning') 
     
-    print('Morning') # your text
-    print('Morning') # your text
-    print('Morning') # your text
+    print('Morning') 
+    print('Morning') 
+    print('Morning') 
 
-Morning() # close    
+Morning()   
