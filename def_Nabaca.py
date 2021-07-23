@@ -18,24 +18,24 @@ def Nabaca():
     print('Nabaca') 
     print('Nabaca') 
     
-    print('Nabaca') # your text
-    print('Nabaca') # your text
-    print('Nabaca') # your text
+    print('Nabaca') 
+    print('Nabaca') 
+    print('Nabaca') 
     
-    print('Nabaca') # your text
-    print('Nabaca') # your text
-    print('Nabaca') # your text
+    print('Nabaca') 
+    print('Nabaca') 
+    print('Nabaca') 
     
-    print('Nabaca') # your text
-    print('Nabaca') # your text
-    print('Nabaca') # your text
+    print('Nabaca') 
+    print('Nabaca') 
+    print('Nabaca') 
     
-    print('Nabaca') # your text
-    print('Nabaca') # your text
-    print('Nabaca') # your text
+    print('Nabaca') 
+    print('Nabaca') 
+    print('Nabaca') 
     
-    print('Nabaca') # your text
-    print('Nabaca') # your text
-    print('Nabaca') # your text
+    print('Nabaca')
+    print('Nabaca') 
+    print('Nabaca') 
     
-    Nabaca() # close
+    Nabaca() 
