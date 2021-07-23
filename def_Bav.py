@@ -1,20 +1,20 @@
 # __Author__ __Lencof__
 # def_Bav.py
 
-class Bav(): # create class Bav()
-    print('Bav') # your text
-    print('Bav') # your text
-    print('Bav') # your text
+class Bav(): 
+    print('Bav') 
+    print('Bav') 
+    print('Bav') 
   
-class Bax(): # create class Bax()
-    print('Bax') # your text
-    print('Bax') # your text
-    print('Bax') # your text
+class Bax(): 
+    print('Bax') 
+    print('Bax') 
+    print('Bax') 
     
-class Nasix(): # create class Nasix()
-    print('Nasix') # your text
-    print('Nasix') # your text
-    print('Nasix') # your text
+class Nasix(): 
+    print('Nasix') 
+    print('Nasix') 
+    print('Nasix') 
     
     
 Bav() # close
