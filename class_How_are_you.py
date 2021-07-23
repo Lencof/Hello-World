@@ -10,8 +10,8 @@ class How_are_you():
     print('How are you?')
     print('How are you?') 
     
-    print('How are you?') # your text
-    print('How are you?') # your text 
-    print('How are you?') # your text
+    print('How are you?') 
+    print('How are you?')
+    print('How are you?') 
 
     How_are_you() # close
