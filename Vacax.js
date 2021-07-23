@@ -29,9 +29,9 @@ console.log('Vacax')
 console.log('Vacax') 
 console.log('Vacax') 
 
-console.log('Vacax') // your text
-console.log('Vacax') // your text
-console.log('Vacax') // your text
+console.log('Vacax') 
+console.log('Vacax') 
+console.log('Vacax') 
 
 console.log('Vacax') // your text
 console.log('Vacax') // your text
