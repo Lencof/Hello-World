@@ -9,13 +9,13 @@ print('print')
 print('print')
 print('print') 
 
-print('print') # your text
-print('print') # your text
-print('print') # your text
+print('print') 
+print('print') 
+print('print') 
 
-print('print') # your text
-print('print') # your text
-print('print') # your text
+print('print')
+print('print') 
+print('print') 
 
 print('print') # your text
 print('print') # your text
