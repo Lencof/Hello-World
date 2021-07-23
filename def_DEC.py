@@ -6,36 +6,36 @@ def DEC():
     print('Hi! DEC') 
     print('Hi! DEC') 
     
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
+    print('Hi! DEC') 
+    print('Hi! DEC') 
+    print('Hi! DEC') 
     
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
+    print('Hi! DEC') 
+    print('Hi! DEC') 
+    print('Hi! DEC') 
     
-    print('Hi! DEC') # your text 
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
+    print('Hi! DEC') 
+    print('Hi! DEC') 
+    print('Hi! DEC') 
     
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
+    print('Hi! DEC') 
+    print('Hi! DEC') 
+    print('Hi! DEC')
     
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
+    print('Hi! DEC') 
+    print('Hi! DEC') 
+    print('Hi! DEC') 
     
-    print('Hi! DEC') # your text 
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
+    print('Hi! DEC') 
+    print('Hi! DEC') 
+    print('Hi! DEC') 
     
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
+    print('Hi! DEC') 
+    print('Hi! DEC') 
+    print('Hi! DEC') 
     
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
-    print('Hi! DEC') # your text
+    print('Hi! DEC')
+    print('Hi! DEC') 
+    print('Hi! DEC') 
     
-DEC() # close def DEC():
+DEC() 
