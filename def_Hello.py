@@ -1,14 +1,14 @@
 # __Author__ __Lencof__
 # def_Hello.py
 
-def Hello(): # create Hello
-    print('Hello Worlds') # your text
-    print('Hello Worlds') # your text
-    print('Hello Worlds') # your text
+def Hello(): 
+    print('Hello Worlds') 
+    print('Hello Worlds') 
+    print('Hello Worlds') 
     
-    print("Hello Worlds") # your text 
-    print("Hello Worlds") # your text
-    print("Hello Worlds") # your text
+    print("Hello Worlds") 
+    print("Hello Worlds") 
+    print("Hello Worlds") 
     
     print('Hello Worlds') # your text
     print('Hello worlds') # your text
