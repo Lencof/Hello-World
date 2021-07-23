@@ -17,6 +17,6 @@ class Nasix():
     print('Nasix') 
     
     
-Bav() # close
-Bax() # close
-Nasix() # close
+Bav() 
+Bax() 
+Nasix() 
