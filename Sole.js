@@ -25,9 +25,9 @@ console.log('Sole')
 console.log('Sole') 
 console.log('Sole') 
 
-console.log('Sole') // your text
-console.log('Sole') // your text
-console.log('Sole') // your text
+console.log('Sole') 
+console.log('Sole') 
+console.log('Sole') 
 
 console.log('Sole') // your text
 console.log('Sole') // your text
