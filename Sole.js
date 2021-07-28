@@ -14,8 +14,8 @@ console.log('Sole')
 console.log('Sole') 
 
 console.log('Sole') 
-console.log('Sole') // your t
-console.log('Sole') // your text
+console.log('Sole') 
+console.log('Sole') 
 
 console.log('Sole') // your text
 console.log('Sole') // your text
