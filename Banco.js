@@ -32,7 +32,5 @@ console.log('Banco')
 console.log('Banco') 
 console.log('Banco')
 console.log('Banco') 
+ 
 
-console.log('Banco')
-console.log('Banco') 
-console.log('Banco') 
