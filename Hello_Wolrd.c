@@ -1,5 +1,5 @@
 // __Author__ __Lencof__
-// Hello_Wolrd.cpp
+// Hello_Wolrd.c
 
 #include<stdio.h>
 
